@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+git add .gitignore
+git commit -m "Add gitignore"
+git push
