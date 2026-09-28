@@ -4,3 +4,6 @@ obj/
 git add .gitignore
 git commit -m "Add gitignore"
 git push
+git add README.md
+git commit -m "Add project README"
+git push
